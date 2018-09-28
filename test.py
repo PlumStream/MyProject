@@ -5,3 +5,4 @@ y = tf.shape(x)
 #teattataata afaf
 #teatat
 print  sess.run(y)
+print sess.run(x)
